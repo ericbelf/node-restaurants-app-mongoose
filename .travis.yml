@@ -4,8 +4,7 @@ services:
 - mongodb
 deploy:
   provider: heroku
-  api_key:
-    secure: mUHHHwErnVLYAH+Teivatrji/AhpnCcLOlMPLtU2nGYR1J6lms2zzyiV3RIpsqJkMvf4TRtbh5ukcftlQlpqGAo0TL4x/WJffdszU35iFARdSldY5lj8ecyIQ2hB6UE7Y/N4ocd8xb5qXsk4cSeb0/Ib32M7764ORbsQdhsTw4zqUI45j4YY+UOXqVASXhFSrrxIv3prV5F2AYAwj60w8pO0KyNjLKt3dCLtani+bFHrdqnRoEWRkllk/lfq6LpSJijueU68vZGXYfvJbsD7f5B2a3asxxtyarZUukdEDjFrD935zVB/ub5cltKLcmp5nt070wVudQhflCiFX3hAD+sOlpZAwHNh+Do14eZ1MhB/UNo0z5QCNrA4m8uX744xY1kixCu8leW+D5d1uQrOpKAQXs7wfk9/K69dtwOWvOsU+D+TOrWZuA8Da0YiNVAlEUw8VMsj+gueyAQ5rTofU1XbnTpfxHwd4RHs7m/JW1weug2HF4OiXFDU5vVpMy3wlPnW+W9qzNsPd0pqMFE4Zzh5qkEeRdOXuVIG3quCPdlr2lbeO4vxO5osU27qe9volbpe5kKcaxwYSqy9BY2cTm3yb13SoYjfzeEbAtZBKz41IYkRbNCSD7rdW8eclm8lA83WZ2XnxOhTsSC3rBuUmjAu0jt1QjIch2mJoYlAixk=
+  api_key: b44948b8-45e5-42c8-a0e8-9b5eca5129a3
   app: limitless-earth-36710
   on:
     repo: ericbelf/node-restaurants-app-mongoose
